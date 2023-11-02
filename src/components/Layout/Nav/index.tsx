@@ -1,3 +1,5 @@
+import { Box } from "@chakra-ui/react";
+
 export const Nav = () => {
-  return <h1>teste</h1>;
+  return <Box padding="4" id="box-header"></Box>;
 };
